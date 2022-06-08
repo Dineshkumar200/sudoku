@@ -25,6 +25,8 @@ Calculate the time taken to solve the sudoku.
 ```
 Developed By : Dineshkumar V
 Reg.no : 212220230013
+
+```
 ```python
 import time
 
