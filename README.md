@@ -20,7 +20,7 @@ Repeat 3 and 4 until we get the solved puzzle.
 ### Step 6:
 Calculate the time taken to solve the sudoku.
 
-## Program:
+## <br/><br/><br/><br/><br/><br/>Program:
 ```
 Developed By : Dineshkumar V
 Reg.no : 212220230013
@@ -132,9 +132,10 @@ print("\n\n{0} seconds".format(time_taken))
 
 ## Output:
 ![Screenshot 2022-06-08 210254](https://user-images.githubusercontent.com/75235789/172658128-e7549e9a-74fa-4180-bb61-cbb5f2d8c869.jpg)
+
 ![Screenshot 2022-06-08 210313](https://user-images.githubusercontent.com/75235789/172658150-d6d75377-749c-4ddc-ab6d-88f598f9f329.jpg)
 
 
 
-## Result:
+## <br/><br/><br/><br/><br/>Result:
 Thus, a program to solve sudoku puzzle using constraint propagation is implemented successfully.
